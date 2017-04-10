@@ -12,12 +12,13 @@ import org.springframework.stereotype.Component;
 @Provider
 public final class AuthorizationRequestFilter implements ContainerRequestFilter {
 
-	public static final String AUTH_TOKEN = "password";
+	public static final String AUTH_TOKEN = "DarkSwan";
+	private String authHeader;
 
 	@Override
 	public void filter(ContainerRequestContext requestContext) throws IOException {
 
-		String authHeader = requestContext.getHeaderString("Authorization");
+	        authHeader = requestContext.getHeaderString("Authorization");
 
 		if (authHeader == null || !authHeader.equalsIgnoreCase(AUTH_TOKEN)) {
 			throw new WebApplicationException(Status.UNAUTHORIZED);
