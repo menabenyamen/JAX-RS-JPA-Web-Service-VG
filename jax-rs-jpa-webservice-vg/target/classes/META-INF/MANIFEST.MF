@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jax-rs-jpa-webservice-vg
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: menabenyamen
+Implementation-Vendor-Id: se.mebe
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/jax-rs-jpa-w
+ ebservice-vg/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,17 @@
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/repository/IssueRepository.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/service/UserService.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/model/Issue.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/repository/UserRepository.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/TaskmanagerSpringjpaApplication.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/model/Team.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/model/User.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/service/ServiceException.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/service/TeamService.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/repository/WorkitemRepository.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/model/Status.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/repository/TeamRepository.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/config/Config.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/model/AbstractEntity.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/model/Workitem.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/service/IssueService.java
+/Users/menabenyamen/Documents/workspace/taskmanager-springjpa/src/main/java/se/springdata/service/WorkitemService.java
